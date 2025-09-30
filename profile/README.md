@@ -1,6 +1,6 @@
-## ICAO Commons
+## Commons ICAO
 
-ICAO Commons is a project focused on reusable classes and utilities for ICAO related standards.
+Commons ICAO is a project focused on reusable classes and utilities for ICAO related standards.
 
 ---
 
