@@ -1,6 +1,6 @@
-## Icarus
+## ICAO Utils
 
-Icarus projects focus on reusable classes and utilities for ICAO related standards.
+A collection of reusable utilities for working with ICAO-related standards and formats.
 
 ---
 
