@@ -1,6 +1,6 @@
-## ICAO Utils
+## ICAO Commons
 
-A collection of reusable utilities for working with ICAO-related standards and formats.
+Reusable classes and utilities for working with ICAO-related standards and formats.
 
 ---
 
