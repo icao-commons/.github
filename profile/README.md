@@ -1,6 +1,6 @@
-## Commons ICAO
+## Icarus
 
-Commons ICAO is a project focused on reusable classes and utilities for ICAO related standards.
+Icarus projects focus on reusable classes and utilities for ICAO related standards.
 
 ---
 
